@@ -1,7 +1,10 @@
+// Pages
+import HomePage from "./pages/HomePage";
+
 function App() {
     return (
         <div className="App">
-            <h1>Hello Ignite</h1>
+            <HomePage />
         </div>
     );
 }
