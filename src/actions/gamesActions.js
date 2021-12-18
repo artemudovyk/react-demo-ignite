@@ -3,7 +3,7 @@ import {
     popularGamesURL,
     upcomingGamesURL,
     newGamesURL,
-    searchGameURL,
+    // searchGameURL,
 } from '../api';
 
 export function loadGamesAction() {
